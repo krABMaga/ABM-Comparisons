@@ -1,0 +1,7 @@
+real	=60*14+31,726s
+real	=60*15+0,315s
+real	=60*14+32,256s
+------
+Mesa Schelling (ms): 24077.44462788105
+Mesa Schelling (ms): 24240.35169184208
+Mesa Schelling (ms): 24353.11833024025

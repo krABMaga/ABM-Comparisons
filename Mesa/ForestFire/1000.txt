@@ -1,0 +1,7 @@
+real	0m2,232s
+real	0m2,244s
+real	0m2,216s
+------
+Mesa ForestFire (ms): 1985,0578010082245
+Mesa ForestFire (ms): 2001,8115565180779
+Mesa ForestFire (ms): 1972,3369665443897

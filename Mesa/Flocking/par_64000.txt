@@ -1,0 +1,29 @@
+Traceback (most recent call last):
+  File "/home/isis/ABM_Framework_comparisons/Mesa/Flocking/benchmark.py", line 24, in <module>
+    a = min(tt.repeat(1, 1))
+  File "/usr/lib/python3.9/timeit.py", line 205, in repeat
+    t = self.timeit(number)
+  File "/usr/lib/python3.9/timeit.py", line 177, in timeit
+    timing = self.inner(it, self.timer)
+  File "<timeit-src>", line 19, in inner
+  File "<timeit-src>", line 12, in runthemodel
+  File "/home/isis/ABM_Framework_comparisons/Mesa/Flocking/model.py", line 78, in step
+    self.schedule.step()
+  File "/home/isis/.local/lib/python3.9/site-packages/mesa/time.py", line 125, in step
+    agent.step()
+  File "/home/isis/ABM_Framework_comparisons/Mesa/Flocking/boid.py", line 64, in step
+    neighbors = self.model.space.get_neighbors(self.pos, self.vision, False)
+  File "/home/isis/.local/lib/python3.9/site-packages/mesa/space.py", line 835, in get_neighbors
+    deltas = np.abs(self._agent_points - np.array(pos))
+KeyboardInterrupt
+Mesa Flocking (s): 30806.34922828898
+
+real	=60*513+29,345s
+user	426m6,711s
+sys	87m20,875s
+Mesa Flocking (s): 30893.182310514152
+
+real	=60*514+56,219s
+user	426m21,028s
+sys	88m33,526s
+Mesa Flocking (s): 31118.274654906243

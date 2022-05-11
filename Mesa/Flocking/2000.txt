@@ -1,0 +1,7 @@
+real	0m45,463s
+real	0m45,131s
+real	0m45,685s
+------
+Mesa Flocking (s): 45,344495721161366
+Mesa Flocking (s): 45,015951711684465
+Mesa Flocking (s): 45,56480545178056

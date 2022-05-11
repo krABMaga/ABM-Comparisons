@@ -1,0 +1,7 @@
+real	75m10,795s
+real	80m56,330s
+real	80m44,085s
+------
+Mesa Schelling (ms): 171864.72889780998
+Mesa Schelling (ms): 174935.99105998874
+Mesa Schelling (ms): 178084.61032807827

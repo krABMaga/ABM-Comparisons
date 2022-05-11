@@ -1,0 +1,7 @@
+real	0m7,243s
+real	0m7,088s
+real	0m7,495s
+------
+Mesa ForestFire (ms): 6794.771943241358
+Mesa ForestFire (ms): 6658.146254718304
+Mesa ForestFire (ms): 7036.934930831194

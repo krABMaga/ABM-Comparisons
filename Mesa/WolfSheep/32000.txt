@@ -1,0 +1,7 @@
+real	=60*1+39,232s
+real	=60*1+37,384s
+real	=60*1+41,404s
+------
+Mesa WolfSheep (ms): 97647.7309949696
+Mesa WolfSheep (ms): 95747.13050201535
+Mesa WolfSheep (ms): 99783.38195756078

@@ -1,0 +1,7 @@
+real	=60*2+21,766s
+real	=60*2+18,603s
+real	=60*2+22,940s
+------
+Mesa Flocking (s): 141,60490594431758
+Mesa Flocking (s): 138,45174238830805
+Mesa Flocking (s): 142,78297520428896

@@ -1,0 +1,4 @@
+Manifest.toml
+*.pyc
+.*.tmp.nlogo
+__pycache__

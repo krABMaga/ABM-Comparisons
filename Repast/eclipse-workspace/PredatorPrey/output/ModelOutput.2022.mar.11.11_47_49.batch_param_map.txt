@@ -1,0 +1,2 @@
+"run","initialnumberofwolves","wolfreproduce","randomSeed","initialnumberofsheep","ydim","sheepgainfromfood","xdim","grassregrowthtime","wolfgainfromfood","sheepreproduce","runlength"
+1,400,10.0,12345,600,100,5.0,100,20,13.0,20.0,200.0
